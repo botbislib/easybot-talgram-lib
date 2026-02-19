@@ -1,4 +1,4 @@
-# 🤖 Botbis easy bot lib 
+# 🤖 Botbis easy bot lib demo
 **The Ultimate PHP Library for Telegram Bots**
 
 <p align="center">

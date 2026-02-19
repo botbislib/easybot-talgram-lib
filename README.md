@@ -1,6 +1,5 @@
-# 🤖 Botbis easy bot lib 
+# 🤖 Botbis easy bot lib demo
 **The Ultimate PHP Library for Telegram Bots**
-
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-7.4%2B-blue?style=for-the-badge&logo=php" alt="PHP Version">
   <img src="https://img.shields.io/badge/Telegram%20Bot%20API-6.0%2B-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot API">

@@ -115,7 +115,7 @@ class Bot
         
         if ($this->isBlocked()) {
             $remaining = $this->blockList[$this->user_id] - time();
-            $this->reply("⛔ شما برای {$remaining} ثانیه بلاک شدید.");
+            $this->reply("⛔ شما به مدت {$remaining} ثانیه بلاک شدید.");
             return false;
         }
         
